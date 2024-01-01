@@ -15,4 +15,4 @@ Simulador realizado en 4to semestre de 2023 en Instituto Profecional CIISA(Tecni
 
 - [PHP](https://www.php.net/manual/es/index.php)
 - [Laravel](https://laravel.com)
-- [Blade]
+- Blade
