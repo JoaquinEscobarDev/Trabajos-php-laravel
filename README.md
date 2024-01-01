@@ -3,7 +3,7 @@
 
 Simulador realizado en 4to semestre de 2023 en Instituto Profecional CIISA(Tecnico en programacion y analista de sistemas) para "Framework y programación Web", la pagina Web para gestionar registros, actualizacion, eliminacion y busqueda de los pacientes ficticios que se ingresan en la base de datos que esta conectada mediante MySQL.
 
-## :💻 Funcionalidades
+## 💻 Funcionalidades
 
 - Funcionalidad 1: Registro de paciente.
 - Funcionalidad 2: Busqueda del paciente mediante rut.
@@ -11,7 +11,7 @@ Simulador realizado en 4to semestre de 2023 en Instituto Profecional CIISA(Tecni
 - Funcionalidad 4: Actualizacion de los datos del paciente.
 - Funcionalidad 5: Eliminación del paciente de la base de datos.
 
-## :✔️ Tecnología utilizada
+## ✔️ Tecnología utilizada
 
 - PHP
 - Laravel
